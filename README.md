@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/KumarSubodh12/leetcode/tree/master/0089-gray-code) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/KumarSubodh12/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Backtracking
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/KumarSubodh12/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/KumarSubodh12/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3454-separate-squares-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3454-separate-squares-ii) |
 ## Binary Search
 |  |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/KumarSubodh12/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+## Geometry
+|  |
+| ------- |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/KumarSubodh12/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 <!---LeetCode Topics End-->
