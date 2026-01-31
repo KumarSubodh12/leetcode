@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KumarSubodh12/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0641-design-circular-deque](https://github.com/KumarSubodh12/leetcode/tree/master/0641-design-circular-deque) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/KumarSubodh12/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/KumarSubodh12/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/KumarSubodh12/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KumarSubodh12/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/KumarSubodh12/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/KumarSubodh12/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3454-separate-squares-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3454-separate-squares-ii) |
 ## Segment Tree
